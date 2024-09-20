@@ -19,4 +19,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/TanaratSudjai"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TanaratSudjai&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/TanaratSudjai"><img src="https://github-readme-stats.vercel.app/api?username=TanaratSudjai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="TanaratSudjai's GitHub stats" /></a>
