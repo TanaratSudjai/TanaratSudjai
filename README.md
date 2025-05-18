@@ -8,9 +8,6 @@
 <a href="https://bun.sh/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="36" height="36" alt="Bun" />
 </a>
-<a href="https://elysiajs.com/" target="_blank" rel="noreferrer">
-  <img src="https://elysiajs.com/favicon.svg" width="36" height="36" alt="Elysia" />
-</a>
 </p>
 
 
