@@ -8,9 +8,7 @@
 <a href="https://bun.sh/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="36" height="36" alt="Bun" />
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="background-color: #1e1e1e; padding: 4px; border-radius: 8px;" width="36" height="36" alt="TypeScript" />
 
 </p>
 
