@@ -3,7 +3,7 @@
 ### Skills
 
 
-# 🚀 My Tech Stack
+# 🚀 Tech stack useing for working !
 
 <p align="left">
   <!-- Frontend -->
