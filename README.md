@@ -11,7 +11,7 @@
   <p align="center">
     <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind" /></a> 
     <br/>
-    <a href="#"><img src="https://skillicons.dev/icons?i=elysia,express,nest,go-fiber" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=elysia,express,nest" /></a>
   </p>
   
   #### Package Management
