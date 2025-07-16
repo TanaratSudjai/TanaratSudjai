@@ -14,7 +14,7 @@
   
   #### Package Management
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=bun,npm,nvm,pm2,node.js" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=bun,npm" /></a>
   </p>
   
   #### Tools & Technologies
