@@ -1,8 +1,3 @@
-* ✉️  You can contact me at [tanarat.dev18@gmail.com](mailto:tanarat.dev@gmail.com)
-
-### Skills
-
-
 # 🚀 Tech stack useing for working !
 
 <div align="center">
@@ -14,7 +9,11 @@
   
   #### Frameworks & Libraries
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,tailwind,bun" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,tailwind" /></a>
+  </p>
+  #### Package Management
+  <p align="center">
+    <a href="#"><img src="https://skillicons.dev/icons?i=bun,npm,nvm,pm2,node" /></a>
   </p>
   
   #### Tools & Technologies
