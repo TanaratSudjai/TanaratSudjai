@@ -11,9 +11,10 @@
   <p align="center">
     <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,tailwind" /></a>
   </p>
+  
   #### Package Management
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=bun,npm,nvm,pm2,node" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=bun,npm,nvm,pm2,node.js" /></a>
   </p>
   
   #### Tools & Technologies
