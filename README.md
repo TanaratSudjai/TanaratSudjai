@@ -10,7 +10,7 @@
   #### Frameworks & Libraries
   <p align="center">
     <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind" /></a>
-    <a href="#"><img src="https://skillicons.dev/icons?i=elysia,express,fiber" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=elysia,express" /></a>
   </p>
   
   #### Package Management
