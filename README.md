@@ -9,7 +9,7 @@
 
   #### Languages
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=java,js,php,html,css" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=go,js,php,ts,html,css" /></a>
   </p>
   
   #### Frameworks & Libraries
