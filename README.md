@@ -19,9 +19,7 @@
   
   #### Tools & Technologies
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=git,vscode,docker,linux,mysql,postgres,cicd" /></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="46" height="46" alt="MetaMask" /></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="46" height="46" alt="Ethereum" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=git,vscode,docker,linux,mysql,postgres" /></a>
   </p>
 </div>
 
