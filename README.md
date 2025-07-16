@@ -14,7 +14,7 @@
   
   #### Frameworks & Libraries
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,tailwind,bootstrap,laravel,jquery" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,tailwind,bun" /></a>
   </p>
   
   #### Tools & Technologies
