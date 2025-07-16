@@ -5,6 +5,25 @@
 
 # 🚀 Tech stack useing for working !
 
+<div align="center">
+
+  #### Languages
+  <p align="center">
+    <a href="#"><img src="https://skillicons.dev/icons?i=java,js,php,html,css" /></a>
+  </p>
+  
+  #### Frameworks & Libraries
+  <p align="center">
+    <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,tailwind,bootstrap,laravel,jquery" /></a>
+  </p>
+  
+  #### Tools & Technologies
+  <p align="center">
+    <a href="#"><img src="https://skillicons.dev/icons?i=git,vscode,docker,linux,mysql,postgres,arduino,blender" /></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="46" height="46" alt="MetaMask" /></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="46" height="46" alt="Ethereum" /></a>
+  </p>
+</div>
 <p align="left">
   <!-- Frontend -->
   <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
