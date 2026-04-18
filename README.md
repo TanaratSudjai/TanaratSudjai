@@ -2,12 +2,12 @@
 
   <!-- Frontend -->
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nuxtjs,tailwind" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=ts,java, react,tailwind" /></a>
   </p>
 
   <!-- Backend -->
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=elysia,express,springboot" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=express,springboot,nest" /></a>
   </p>
 
   <!-- Package Manager -->
