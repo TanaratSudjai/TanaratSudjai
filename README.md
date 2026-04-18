@@ -9,7 +9,7 @@
   <p align="center">
     <a href="#"><img src="https://skillicons.dev/icons?i=react,nuxtjs,tailwind" /></a> 
     <br/>
-    <a href="#"><img src="https://skillicons.dev/icons?i=elysia,express,nest" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=elysia,express,springboot" /></a>
   </p>
   
   <p align="center">
