@@ -10,14 +10,7 @@
   <!-- Backend -->
   <p align="center">
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=express,nestjs" />
-    </a>
-  </p>
-
-  <!-- Package Manager -->
-  <p align="center">
-    <a href="#">
-      <img src="https://skillicons.dev/icons?i=bun,npm" />
+      <img src="https://skillicons.dev/icons?i=bun,express,nestjs,npm" />
     </a>
   </p>
 
