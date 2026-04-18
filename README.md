@@ -10,7 +10,7 @@
   <!-- Backend -->
   <p align="center">
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=express,springboot,nestjs" />
+      <img src="https://skillicons.dev/icons?i=express,nestjs" />
     </a>
   </p>
 
