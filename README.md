@@ -7,6 +7,8 @@
     </a>
   </p>
 
+  <img src="https://shields.io" alt="Spring Boot" />
+
   <!-- Backend -->
   <p align="center">
     <a href="#">
