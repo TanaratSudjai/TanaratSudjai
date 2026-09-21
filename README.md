@@ -3,7 +3,7 @@
   <!-- Frontend -->
   <p align="center">
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=ts,java,typescript,tailwind" />
+      <img src="https://skillicons.dev/icons?i=ts,java,springboot,tailwind" />
     </a>
   </p>
 
