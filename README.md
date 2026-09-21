@@ -3,11 +3,9 @@
   <!-- Frontend -->
   <p align="center">
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=ts,java,spring-boot,tailwind" />
+      <img src="https://skillicons.dev/icons?i=ts,java,typescript,tailwind" />
     </a>
   </p>
-
-  <img src="https://shields.io" alt="Spring Boot" />
 
   <!-- Backend -->
   <p align="center">
